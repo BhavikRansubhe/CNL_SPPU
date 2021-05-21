@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1607358934 source:c:\users\bhavi\desktop\cnl\packet analyzer\packet analyzer\main.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	<string>
+
